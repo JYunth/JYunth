@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Jheyanth</h1>
+<h1 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi there! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  I am Jheyanth.
+</h1>
 <h3 align="center">A passionate developer from Chennai, India</h3>
+
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=77DD77&width=380&height=45&lines=Open-Source+Enthusiast;Perpetually+learning;Nice+To+Meet+You.;+...&center=true"></a>
+</p>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
