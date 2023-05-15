@@ -1,50 +1,22 @@
-<div>
-<img align="center" src="https://i.imgur.com/4ASafy0.png">
-</div>
+<h1 align="center">Hi 👋, I'm Jheyanth</h1>
+<h3 align="center">A passionate developer from Chennai, India</h3>
 
-<h3 align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Perpetually+learning;Nice+To+Meet+You+...&center=true"></a>
+- 📝 I regularly write articles on [https://jyunth.hashnode.dev/](https://jyunth.hashnode.dev/)
 
+- 📫 How to reach me **jyunth28@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jheyanth_CS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jheyanth_CS" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jheyanth-cs-049101243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jheyanth CS" height="30" width="40" /></a>
 </p>
 
-<!-- Badges template - https://github.com/badges/shields -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyunth&show_icons=true&theme=dark&locale=en" alt="jyunth" /></p>
 
-<h1 align="center"> Hi, I am Jheyanth. </h1>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyunth&theme=dark" alt="jyunth" /></p>
 
-
-I am an Electrical and Electronics freshman from India. I am an **open source** enthusiast. 
-I am always open to collaborating on projects and being part of innovative initiations. 
-I believe in collaboration over competition 🤝. These are my recent works :
-
-:pushpin: Maintainer and contributor in Hacktoberfest 2022
-
-## <🔩 ToolBox> 
-
-![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=4B8BBE)
- <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<h1 align="center"> 🔥 Contributions: </h1>
-
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JYunth&show_icons=true&theme=onedark" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JYunth&show_icons=true&theme=onedark" />
-  
-</p>
-
-
-
-<!--## <🙋‍♂️ Connect with me>-->
-
-<!--[![Linkedin Badge](https://img.shields.io/badge/-Adarshjaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-jaiswal-502643216/)](https://www.linkedin.com/in/adarsh-jaiswal-502643216/)
-[![Instagram Badge](https://img.shields.io/badge/-adarshig_-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adarshig_/)](https://www.instagram.com/adarshig_/)
-[![Gmail Badge](https://img.shields.io/badge/-its.adarshjaiss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:its.adarshjaiss@gmail.com)](mailto:its.adarshjaiss@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-twtadarsh-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/TwtAdarsh)](https://twitter.com/TwtAdarsh)
-[![Hashnode Badge](https://img.shields.io/badge/-adarshjaiss-darkblue?style=flat-square&logo=hashnode&logoColor=white&link=https://blogbyadarsh.hashnode.dev)](https://blogbyadarsh.hashnode.dev)-->
