@@ -4,11 +4,16 @@
   I am Jheyanth.
 </h1>
 <h3 align="center">A passionate developer from Chennai, India</h3>
+<p align = "center"> @Google Developer Student Club - VITC (Open Source Department) member</p>
+<p align = "center">Decentralized Autonomous Organization - VITC member</p>
+
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=77DD77&width=380&height=45&lines=Open-Source+Enthusiast;Perpetually+learning;Nice+To+Meet+You.;+...&center=true"></a>
 </p>
+
+
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
