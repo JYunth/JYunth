@@ -3,11 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   I am Jheyanth.
 </h1>
-<h3 align="center">A passionate developer from Chennai, India</h3>
-<p align = "center"> @Google Developer Student Club - VITC (Open Source Department) member</p>
-<p align = "center">Decentralized Autonomous Organization - VITC member</p>
-<p align="center"> CloudOps - VITC Development team </p>
-
+<h3>👨‍💻 A passionate developer from Chennai, India</h3>
+<p>🪙 Decentralized Autonomous Organization - VITC: Lead Web Development Facilitator</p>
+<p>🔎 Google Developer Student Club - VITC: Open Source Department member</p>
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
@@ -16,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **Node.js, Express and working with APIs**
+- 🌱 I’m currently learning **React.js**
 
 - 📝 I regularly write articles on [https://jyunth.hashnode.dev/](https://jyunth.hashnode.dev/)
 
