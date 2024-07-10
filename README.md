@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   I am Jheyanth.
 </h1>
-<h3>👨‍💻 A passionate developer from Chennai, India</h3>
+<h3 align="center">👨‍💻 A passionate developer from Chennai, India</h3>
 <p>🪙 Decentralized Autonomous Organization - VITC: Lead Web Development Facilitator</p>
 <p>🔎 Google Developer Student Club - VITC: Open Source Department member</p>
 
