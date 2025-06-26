@@ -4,23 +4,19 @@
   I am Jheyanth.
 </h1>
 <h3 align="center">👨‍💻 A passionate fullstack web3 developer from Chennai, India</h3>
-<p>🪙 Decentralized Autonomous Organization - VITC: Lead Web Development Facilitator</p>
-<p>🔎 Google Developer Groups - On Campus VITC: Open Source Department member</p>
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=ADD8E6&width=380&height=45&lines=Open-Source+Enthusiast;Perpetually+learning;Nice+To+Meet+You.;+...&center=true"></a>
 </p>
 
+- 🌱 I’m currently contributing to the **Solana Ecosystem**
 
-
-- 🌱 I’m currently learning **The Aptos Ecosystem**
-
-- 📝 I regularly write articles on [https://jyunth.hashnode.dev/](https://jyunth.hashnode.dev/) and my own [digital garden](https://jyunth-garden.vercel.app) 
+- 📝 I regularly write articles in my [digital garden](https://jyunth-garden.vercel.app) 
 
 - 📫 How to reach me: **jyunth28@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">My socials:</h3>
 <p align="center">
 <a href="https://x.com/jheyanth_CS" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/twitter/twitter-original.svg" alt="jheyanth_CS" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jheyanth-cs-049101243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jheyanth CS" height="30" width="40" /></a>
